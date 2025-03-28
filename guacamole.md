@@ -6,7 +6,7 @@
 * Chili
 * Pepper
 * tomato
-* garlix powder
+* garlic powder
 ## Instructions
 * peel the avocados
 * Put one avocado into the bowl
