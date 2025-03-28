@@ -2,3 +2,5 @@
 Tahin
 Garlic
 Chickpeas
+## Instructions
+* mix ingredients
