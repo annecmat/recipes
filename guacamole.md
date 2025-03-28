@@ -1,6 +1,6 @@
 # Guacamole 
 ## Ingredients 
-* Avocado
-* Lemon
-* Salt
+* Avocado - 80ct
+* Lemon - 40ct
+* Salt - 0 ct
 ## Instructions
